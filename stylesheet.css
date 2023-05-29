@@ -1,0 +1,44 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    background-color: #FFEAD2 ;
+    margin: 0 auto;
+    max-width: 25em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    
+    
+}
+nav a{
+    text-decoration: none;
+    color: #ACB1D6;;
+}
+
+h1 {
+    text-align: center;
+    color: #8294C4;
+    background-color: #DBDFEA ;
+    font-family: Times, serif;  ;
+}
+h2 {
+    font-family: Verdana, sans-serif;
+}
+
+li {
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+main {
+    background-color: #DBDFEA;
+    padding: 0.5em;
+    margin-top: 1em;
+    
+}

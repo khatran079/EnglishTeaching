@@ -7,10 +7,8 @@ body {
 
 nav {
     text-align: center;
-    font-weight: bold;
-    background-color: #FFEAD2 ;
-    margin: 0 auto;
-    max-width: 25em;
+    /* font-weight: bold; */
+    background-color: rgb(234, 234, 234) ;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
     
@@ -18,7 +16,8 @@ nav {
 }
 nav a{
     text-decoration: none;
-    color: #ACB1D6;;
+    color: rgb(123, 158, 238);
+    font-weight: bold;
 }
 
 h1 {
@@ -31,13 +30,13 @@ h2 {
     font-family: Verdana, sans-serif;
 }
 
-li {
+.course {
     font-weight: bold;
     padding-bottom: 1em;
 }
 
 main {
-    background-color: #DBDFEA;
+    background-color:rgb(250, 250, 250);
     padding: 0.5em;
     margin-top: 1em;
     

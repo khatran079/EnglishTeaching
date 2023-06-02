@@ -45,3 +45,9 @@ main {
     margin-top: 1em;
     
 }
+
+footer {
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
